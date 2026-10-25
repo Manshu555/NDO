@@ -1,0 +1,6 @@
+scenario,label,seed,n_nodes,sim_duration,periodic_update_interval,settling_time,max_queue_len,max_queue_time,packets_sent,packets_received,packets_dropped,pdr,mean_delay,throughput,overhead_ratio,routing_updates_sent,success
+medium,baseline,42,20,100.0,15.0,6.0,64,30.0,1619,1059,560,0.654107,0.007710,43376.64,0.625145,2700,True
+medium,baseline,123,20,100.0,15.0,6.0,64,30.0,1664,1190,474,0.715144,0.007572,48742.40,0.587506,2370,True
+medium,baseline,456,20,100.0,15.0,6.0,64,30.0,1594,1045,549,0.655583,0.007964,42803.20,0.591072,2304,True
+medium,baseline,789,20,100.0,15.0,6.0,64,30.0,1644,832,812,0.506083,0.009220,34078.72,0.591654,2382,True
+medium,baseline,1024,20,100.0,15.0,6.0,64,30.0,1582,857,725,0.541719,0.007331,35102.72,0.608610,2460,True
